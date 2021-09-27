@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:sqlserver://chandni.database.windows.net:1433;database=testdb;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-    username: testdb
+    username: chandni
     password: test@123
   jpa:
     show-sql: true
